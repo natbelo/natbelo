@@ -1,6 +1,7 @@
 Olá eu sou Natália Belo👋
 
-- 🔭 Foramada em Engenharia Elétrica de Telecomunicações pela UPE/POLI, hoje trabalho com Qualidade de Software.
+- 🏫 Formada em Engenharia Elétrica de Telecomunicações pela UPE/POLI
+- 🔭 Trabalho com Qualidade de Software.
 - 🌱 Estudando Automação de Testes e Metodologias Ágeis.
 
 <div align="center">
@@ -19,6 +20,7 @@ Olá eu sou Natália Belo👋
 </div>
 
 <div> 
+  <li></li>
   <a href = "mailto:nataliabelo.nb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nataliabelonb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
