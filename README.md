@@ -2,7 +2,7 @@ Olá eu sou Natália Belo👋
 
 - 🏫 Formada em Engenharia Elétrica de Telecomunicações pela UPE/POLI
 - 🔭 Trabalho com Qualidade de Software.
-- 🌱 Estudando Automação de Testes e Metodologias Ágeis.
+- 🌱 Estudando Automação de Testes, Programação e Metodologias Ágeis.
 
 <div align="center">
   <a href="https://github.com/natbelo">
