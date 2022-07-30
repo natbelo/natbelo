@@ -1,6 +1,7 @@
 Olá eu sou Natália Belo👋
 
 - 🏫 Formada em Engenharia Elétrica de Telecomunicações pela UPE/POLI
+- 🏫 Especialização em Testes Ágeis - Cesar School (em formação)
 - 🔭 Trabalho com Qualidade de Software.
 - 🌱 Estudando Automação de Testes, Programação e Metodologias Ágeis.
 
